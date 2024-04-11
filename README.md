@@ -1,7 +1,5 @@
 # Inventory Management System
 
-**Video Demo: https://youtu.be/L_oNSpYBgQs?si=hJBVhEJN6TjNp-ZN**
-
 ## Description
 
 The **Inventory Management System** is my final project for CS50's Introduction to Programming with Python (CS50P).
